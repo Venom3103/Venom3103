@@ -55,10 +55,10 @@
 
 ## 💼 Experience  
 
-**Expert (Freelance) — Outlier** *(Sep 2024 – May 2025)*  
+**Software Developer — Outlier** *(Aug 2024 – May 2025)*  
 Collaborated cross-functionally to deliver full-stack web apps; designed REST APIs; improved frontend performance; integrated LLM workflows; contributed to scalable, production-grade solutions in a remote, fast-paced setup.  
 
-**Web Development Intern — INFOWIZ** *(2024)*  
+**Web Development Intern — INFOWIZ** *(Jun 2024 - July 2024)*  
 Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailwind/MUI; collaborated on API integrations and deployment.  
 
 ---
@@ -73,16 +73,13 @@ Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailw
 | **EventHub**                               | Event booking/management with authentication & admin dashboards.                  | MERN, Tailwind                              |
 | **No-Code LLM Workflow Builder**           | Drag-and-drop flows for inputs → knowledge → LLM → chat responses.                | Next.js, Node.js, MongoDB, OpenAI           |
 | **Smart Road Breaker System** *(Academic)* | Embedded/IoT safety project; automated speed-control concept.                     | Embedded C, Hardware                        |
-
-> 🔗 Add your repo links later by wrapping project titles like: `[**Expense Manager App**](https://github.com/AYUSH_GH/expense-manager)`
-
----
+ 
 
 ## 📈 GitHub Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Venom3103&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venom3103&theme=radical" alt="GitHub Streak" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venom3103&theme=radical" alt="GitHub Streak"/>  
 
 <img src="https://github-profile-trophy.vercel.app/?username=Venom3103&theme=radical&margin-w=12&margin-h=12" alt="GitHub Trophies" />  
 
