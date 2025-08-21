@@ -100,5 +100,9 @@ Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailw
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
 </p>
+<br>
+<p align="center">
+  <h3>🚀 Thanks for stopping by — let’s build something amazing together! 💡</h3>
+</p>
+
