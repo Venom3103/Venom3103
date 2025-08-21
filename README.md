@@ -81,13 +81,15 @@ Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailw
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venom3103&theme=radical" alt="GitHub Streak"/>  
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaapratap34&layout=compact&theme=radical" alt="Top Languages" />
+
 <img src="https://github-profile-trophy.vercel.app/?username=Venom3103&theme=radical&margin-w=12&margin-h=12" alt="GitHub Trophies" />  
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venom3103&theme=react-dark&hide_border=true" alt="Activity Graph" />  
 
 ---
 
-## 📫 Connect  
+## <p align = "center"> 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/ayush-k-2976b32a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 <a href="mailto:ayushkumar3300@gmail.COM" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
