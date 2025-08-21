@@ -75,7 +75,7 @@ Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailw
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venom3103&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Venom3103&show_icons=true&theme=radical&custom_title=Statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venom3103&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
