@@ -7,9 +7,6 @@
       <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Startup-Ready,+Always+Learning;Building+Scalable+%26+Impactful+Websites;Open+to+Opportunities" alt="Typing SVG" />
     </a>
   </div>
-
-  <p>📍 Profile views tracking since: August 21, 2025</p>
-
 </div>
 
 ## 🕸 About Me
@@ -77,11 +74,12 @@ Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailw
 
 ## 📈 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Venom3103&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />  
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venom3103&theme=radical" alt="GitHub Streak"/>  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Venom3103&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venom3103&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venom3103&theme=radical" alt="GitHub Streak"/>  
 
 <img src="https://github-profile-trophy.vercel.app/?username=Venom3103&theme=radical&margin-w=12&margin-h=12" alt="GitHub Trophies" />  
 
@@ -91,7 +89,16 @@ Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailw
 
 ## <p align = "center"> 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/ayush-k-2976b32a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-<a href="mailto:ayushkumar3300@gmail.COM" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
-<a href="https://YOUR-PORTFOLIO-URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-k-2976b32a7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ayushkumar3300@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 </p>
