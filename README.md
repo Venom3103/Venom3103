@@ -20,78 +20,43 @@
 ## 🛠 Tech Stack  
 
 ### Languages  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-ff9a00?style=flat&logo=mathworks&logoColor=white)  
-![Verilog](https://img.shields.io/badge/Verilog-FF0000?style=flat&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ff9a00?style=flat&logo=mathworks&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-FF0000?style=flat&logoColor=white)  
 
 ---
 
 ### Frontend  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)   
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat&logo=recharts&logoColor=white)  
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat&logo=recharts&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)  
 
 ---
 
 ### Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
 
 ---
 
 ### Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
 ---
 
 ### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)   
-![Render](https://img.shields.io/badge/Render-00979D?style=flat&logo=render&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-00979D?style=flat&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 
 ---
 
 ### Concepts & Practices  
-![DSA](https://img.shields.io/badge/Data_Structures-2E8B57?style=flat&logo=leetcode&logoColor=white)  
-![OOP](https://img.shields.io/badge/OOP-FF8C00?style=flat&logo=java&logoColor=white)  
-![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=flat&logo=postman&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![DSA](https://img.shields.io/badge/Data_Structures-2E8B57?style=flat&logo=leetcode&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-FF8C00?style=flat&logo=java&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2?style=flat&logo=postman&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)  
 
 ---
 
 ### AI/ML Tools  
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)  
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)  
 
-## 💡 Soft Skills
+---
 
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E8B57?style=flat&logo=theconversation&logoColor=white)  
-![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-4682B4?style=flat&logo=abstract&logoColor=white)  
-![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-FF69B4?style=flat&logo=teams&logoColor=white)  
-![Remote Communication](https://img.shields.io/badge/Remote%20Communication-6A5ACD?style=flat&logo=slack&logoColor=white)  
-![Startup Mindset](https://img.shields.io/badge/Startup%20Ready-FF4500?style=flat&logo=rocket&logoColor=white)  
-![API Design](https://img.shields.io/badge/API%20Design-0A66C2?style=flat&logo=postman&logoColor=white)  
+## 💡 Soft Skills  
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E8B57?style=flat&logo=theconversation&logoColor=white) ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-4682B4?style=flat&logo=abstract&logoColor=white) ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-FF69B4?style=flat&logo=teams&logoColor=white) ![Remote Communication](https://img.shields.io/badge/Remote%20Communication-6A5ACD?style=flat&logo=slack&logoColor=white) ![Startup Mindset](https://img.shields.io/badge/Startup%20Ready-FF4500?style=flat&logo=rocket&logoColor=white) ![API Design](https://img.shields.io/badge/API%20Design-0A66C2?style=flat&logo=postman&logoColor=white)  
+ 
 
 ## 💼 Experience  
 
