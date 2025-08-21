@@ -52,13 +52,48 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 
-## 💼 Highlight Projects
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| Expense Manager App | Full-stack expense tracker with auth & dashboards | MERN, Material UI, JWT | [Repo](#) |
-| Project Management Tool | Team collaboration & task manager | MERN | [Repo](#) |
-| AI Resume Analyzer | Resume analysis & role-fit scoring | React, Node.js, OpenAI API | [Repo](#) |
-| EventHub | Event booking app with dashboards | MERN, Tailwind | [Repo](#) |
-| LLM Workflow Builder | No-code app for LLM workflows | MERN, OpenAI API | [Repo](#) |
+## 💼 Experience  
 
+**Expert (Freelance) — Outlier** *(Sep 2024 – May 2025)*  
+Collaborated cross-functionally to deliver full-stack web apps; designed REST APIs; improved frontend performance; integrated LLM workflows; contributed to scalable, production-grade solutions in a remote, fast-paced setup.  
+
+**Web Development Intern — INFOWIZ** *(2024)*  
+Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailwind/MUI; collaborated on API integrations and deployment.  
+
+---
+
+## 🚀 Highlight Projects  
+
+| Project                                    | Description                                                                       | Tech Stack                                  |
+| ------------------------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------- |
+| **Expense Manager App**                    | Full-stack expense tracker with JWT auth, category filters & analytics dashboard. | MERN, MUI, JWT                              |
+| **Project Management Tool**                | Team collaboration, tasks, timelines, role-based access; responsive UI.           | React, Node.js, Express, MongoDB, Socket.IO |
+| **AI Resume Analyzer**                     | Resume parsing + role-fit scoring using LLMs; insights & suggestions.             | React, Node.js, OpenAI API                  |
+| **EventHub**                               | Event booking/management with authentication & admin dashboards.                  | MERN, Tailwind                              |
+| **No-Code LLM Workflow Builder**           | Drag-and-drop flows for inputs → knowledge → LLM → chat responses.                | Next.js, Node.js, MongoDB, OpenAI           |
+| **Smart Road Breaker System** *(Academic)* | Embedded/IoT safety project; automated speed-control concept.                     | Embedded C, Hardware                        |
+
+> 🔗 Add your repo links later by wrapping project titles like: `[**Expense Manager App**](https://github.com/AYUSH_GH/expense-manager)`
+
+---
+
+## 📈 GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=AYUSH_GH&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSH_GH&theme=radical" alt="GitHub Streak" />  
+
+<img src="https://github-profile-trophy.vercel.app/?username=AYUSH_GH&theme=radical&margin-w=12&margin-h=12" alt="GitHub Trophies" />  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSH_GH&theme=react-dark&hide_border=true" alt="Activity Graph" />  
+
+---
+
+## 📫 Connect  
+
+<a href="[https://www.linkedin.com/in/ayush-k-2976b32a7/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="mailto:ayushkumar3300@gmail.COM" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+<a href="https://YOUR-PORTFOLIO-URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>  
+
+---
