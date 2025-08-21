@@ -2,7 +2,9 @@
 # Hey there! 👋 I'm Ayush Kumar
   </p>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Full+Stack+Developer;MERN+Stack+Developer;Startup-Ready,+Always+Learning;Building+Scalable+%26+Impactful+Websites;Open+to+Opportunities)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&lines=Full+Stack+Developer;MERN+Stack+Developer;Startup-Ready,+Always+Learning;Building+Scalable+%26+Impactful+Websites;Open+to+Opportunities" alt="Typing SVG" />
+  </a>
 </p>
   <p align="center">
 📍 Profile views tracking since: August 21, 2025
