@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hey there! 👋 I'm Ayush Kumar</h1>
+  <h1>Hey there! 👋 I'm Ayush</h1>
 
   <div style="display: flex; justify-content: center;">
     <a href="https://git.io/typing-svg">
