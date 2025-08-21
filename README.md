@@ -102,7 +102,6 @@ Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailw
 </p>
 </p>
 <br>
-<p align="center">
-  <h3>🚀 Thanks for stopping by — let’s build something amazing together! 💡</h3>
+<p align="center"> Thanks for stopping by — let’s build something amazing together!🚀
 </p>
 
