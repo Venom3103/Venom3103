@@ -14,8 +14,8 @@
 🚀 Expertise in MERN stack and modern web development  
 🧠 Problem-solving mindset & API architecture experience  
 🌱 Always learning new frameworks, tools & libraries  
-🤝 Open to freelance, collaborations & internship opportunities  
-🎯 Goal-oriented & delivering real-world impact
+🎯 Open to freelance, collaborations & internship opportunities  
+🎖️ Goal-oriented & delivering real-world impact
 
 ## 🛠 Tech Stack  
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 💡 Soft Skills  
+## 🤝🏻 Soft Skills  
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E8B57?style=flat&logo=theconversation&logoColor=white) ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-4682B4?style=flat&logo=abstract&logoColor=white) ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-FF69B4?style=flat&logo=teams&logoColor=white) ![Remote Communication](https://img.shields.io/badge/Remote%20Communication-6A5ACD?style=flat&logo=slack&logoColor=white) ![Startup Mindset](https://img.shields.io/badge/Startup%20Ready-FF4500?style=flat&logo=rocket&logoColor=white) ![API Design](https://img.shields.io/badge/API%20Design-0A66C2?style=flat&logo=postman&logoColor=white)  
  
 
