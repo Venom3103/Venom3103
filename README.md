@@ -1,5 +1,3 @@
-# Venom3103
-Overview
 
 # Hey there! 👋 I'm Ayush Kumar
 
