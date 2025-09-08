@@ -104,7 +104,7 @@ Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailw
   <a href="mailto:ayushkumar3300@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-URL" target="_blank">
+  <a href="https://ayushk-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
