@@ -81,17 +81,28 @@ Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailw
  
 
 ## 📈 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venom3103&show_icons=true&theme=radical&custom_title=Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venom3103&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-venom3103.vercel.app/api?username=Venom3103&show_icons=true&theme=radical&custom_title=Statistics" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-venom3103.vercel.app/api/top-langs/?username=Venom3103&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venom3103&theme=radical" alt="GitHub Streak"/>  
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats-venom3103.vercel.app?user=Venom3103&theme=radical" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Venom3103&theme=radical&margin-w=12&margin-h=12" alt="GitHub Trophies" />  
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Venom3103&theme=radical&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Venom3103&theme=react-dark&hide_border=true" alt="Activity Graph" />  
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venom3103&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
