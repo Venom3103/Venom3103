@@ -91,7 +91,7 @@ Built responsive MERN apps with auth (JWT), dashboards, and clean UI using Tailw
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-venom3103.vercel.app?user=Venom3103&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venom3103&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <!-- GitHub Trophies -->
